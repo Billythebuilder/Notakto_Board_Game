@@ -1,0 +1,14 @@
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/bin/Debug/net8.0/NotaktoTest
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/bin/Debug/net8.0/NotaktoTest.deps.json
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/bin/Debug/net8.0/NotaktoTest.runtimeconfig.json
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/bin/Debug/net8.0/NotaktoTest.dll
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/bin/Debug/net8.0/NotaktoTest.pdb
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/obj/Debug/net8.0/NotaktoTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/obj/Debug/net8.0/NotaktoTest.AssemblyInfoInputs.cache
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/obj/Debug/net8.0/NotaktoTest.AssemblyInfo.cs
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/obj/Debug/net8.0/NotaktoTest.csproj.CoreCompileInputs.cache
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/obj/Debug/net8.0/NotaktoTest.dll
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/obj/Debug/net8.0/refint/NotaktoTest.dll
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/obj/Debug/net8.0/NotaktoTest.pdb
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/obj/Debug/net8.0/NotaktoTest.genruntimeconfig.cache
+/Users/pc/IFN563/NotaktoTest/NotaktoTest/obj/Debug/net8.0/ref/NotaktoTest.dll
